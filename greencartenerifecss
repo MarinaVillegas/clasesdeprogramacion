@@ -1,0 +1,10 @@
+nav {
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14;
+    padding-top:6pt;
+}
+article {
+    background-color: #6EC1E4;
+    font-size: larger;
+}
