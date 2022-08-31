@@ -9,14 +9,19 @@
 </head>
 <body>
     <header>
+        <div class="smallimage"><img src="https://i0.wp.com/greencartenerife.com/wp-content/uploads/2019/10/cropped-Sin-t%C3%ADtulo-3a.png?resize=200%2C30&ssl=1"/></div>
         <nav>Home Vehiculos Contacto </nav>
     </header>
     <main>
+        <div><img class="bigimage" class="left" src="https://i0.wp.com/greencartenerife.com/wp-content/uploads/2021/06/8399.jpg?resize=1024%2C683&ssl=1" class="gallery__img" alt="Image 1">
+             <span class="right"><h1 class="bold" class="text1">WE WANT YOU TO ENJOY <span class="linebreak">TENERIFE</span></h1></span>
+        </div>
         <article>
             <br>
             <p>texto de ejemplo</p>
             </br>
         </article>
+        </div>
     </main>
 </body>
 </html>
