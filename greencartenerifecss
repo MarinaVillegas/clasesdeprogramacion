@@ -7,4 +7,29 @@ nav {
 article {
     background-color: #6EC1E4;
     font-size: larger;
+    width: 100%;
+    height: 500px;
+}
+.smallimage {
+    justify-content: left;
+}
+.bigimage {
+    max-width:50%;
+    max-height:50%;
+}
+.right{
+    float: right;
+}
+.left {
+    float: left;
+}
+.bold {
+    font-weight: bold;
+}
+.text1 {
+    font-family: 'Roboto', sans-serif;
+}
+.linebreak::before {
+    content: "\a";
+    white-space: pre;
 }
